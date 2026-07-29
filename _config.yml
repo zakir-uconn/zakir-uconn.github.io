@@ -23,28 +23,29 @@ repository               : "zakir-uconn/zakir-uconn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "Zakir-1_Raw.jpg"
+  name             : "Md Zakir Hossain"
+  # pronouns         : # example: "she/her"  
+  bio              : "Ph.D. Candidate in Computer Science at the University of Connecticut. My research focuses on Artificial Intelligence for Healthcare and Satellite-Based Quantum Key Distribution."
+  location         : "Storrs, Connecticut, USA"
+  employer         : "University of Connecticut"
+  # uri              : # URL
+  email            : "zakir.hossain@uconn.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # academia         : # URL
+  github           : "zakir-uconn"
+  # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=-amIff0AAAAJ&hl=en"
+  # inspire-hep      : # URL
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-2055-3318"
+  # semantic         : # URL
+  # ssrn             : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+  # scopus           : # URL
+  # zotero           : # URL
 
 
   # Repositories and software development
