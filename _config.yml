@@ -26,7 +26,8 @@ author:
   avatar           : "Zakir-1_Raw.jpg"
   name             : "Md Zakir Hossain"
   # pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Computer Science at the University of Connecticut. My research focuses on Artificial Intelligence for Healthcare and Satellite-Based Quantum Key Distribution."
+  # bio              : "Ph.D. Candidate in Computer Science at the University of Connecticut. My research focuses on Artificial Intelligence for Healthcare and Satellite-Based Quantum Key Distribution."
+  bio              : "**Ph.D. Candidate**<br>Department of Computer Science and Engineering<br>University of Connecticut"
   location         : "Storrs, Connecticut, USA"
   employer         : "University of Connecticut"
   # uri              : # URL
@@ -34,7 +35,7 @@ author:
 
   # Academic websites
   # academia         : # URL
-  github           : "zakir-uconn"
+  github             : "zakir-uconn"
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=-amIff0AAAAJ&hl=en"
   # inspire-hep      : # URL
@@ -58,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
