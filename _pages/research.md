@@ -15,7 +15,15 @@ My research focuses on designing computational algorithms that solve challenging
 
 # Machine Learning for Depression Treatment Outcome Prediction
 
-*(Insert a representative figure from your healthcare paper here.)*
+<p align="center">
+  <img src="/images/Revised_Structure.png"
+       alt="Machine learning framework for depression treatment outcome prediction"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Machine learning framework for predicting depression treatment outcomes from longitudinal behavioral and clinical data.</em>
+</p>
 
 ## Motivation
 
