@@ -3,9 +3,8 @@ title: "Predicting Depression Treatment Outcome Using Daily Step Count Sensory D
 collection: publications
 category: healthcare
 permalink: /publication/2025-step-count-depression
-excerpt: ''
-date: 2025-12-01
-venue: 'ACM HEALTH'
+date: 2025-01-01
+venue: 'ACM Transactions on Computing for Healthcare'
 paperurl: ''
-citation: 'Md Zakir Hossain, Chinmaey Shende, Soumyashree Sahoo, Parit Patel, Reynaldo Morillo, Xinyu Wang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, and Bing Wang. "Predicting Depression Treatment Outcome Using Daily Step Count Sensory Data." ACM HEALTH, 2025.'
+citation: 'Md Zakir Hossain, Soumyashree Sahoo, Chinmaey Shende, Parit Patel, Reynaldo Morillo, Z Pan, Xinyu Wang, Jinbo Bi, et al. "Predicting Depression Treatment Outcome Using Daily Step Count Sensory Data." ACM Transactions on Computing for Healthcare, 2025.'
 ---
