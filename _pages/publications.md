@@ -66,26 +66,26 @@ My publications span **Machine Learning for Healthcare**, **Satellite-Based QKD*
 
 ## Earlier Research
 
-1. M. M. Sarker, M. J. Islam, and **Md. Zakir Hossain**.  
+1. M. M. Sarker, M. J. Islam, and **Md Zakir Hossain**.  
    **"A Clustering Based Niching Method for Effectively Solving the 0-1 Knapsack Problem."**  
    *International Conference on Machine Intelligence and Emerging Technologies*, 2022.
 
-2. M. M. Hasan, M. A. Kashem, M. J. Islam, and **Md. Zakir Hossain**.  
+2. M. M. Hasan, M. A. Kashem, M. J. Islam, and **Md Zakir Hossain**.  
    **"A Time-varying Mutation Operator for Balancing the Exploration and Exploitation Behaviours of Genetic Algorithm."**  
    *3rd International Conference on Electrical & Electronic Engineering (ICEEE)*, 2021.
 
-3. M. Begum, B. C. Das, **Md. Zakir Hossain**, A. Saha, and K. A. Pappy.  
+3. M. Begum, B. C. Das, **Md Zakir Hossain**, A. Saha, and K. A. Pappy.  
    **"An Improved Kohonen Self-organizing Map Clustering Algorithm for High-dimensional Data Sets."**  
    *Indonesian Journal of Electrical Engineering and Computer Science*, 2021.
 
-4. **Md. Zakir Hossain**, M. J. Islam, M. W. R. Miah, J. H. Rony, and M. Begum.  
+4. **Md Zakir Hossain**, M. J. Islam, M. W. R. Miah, J. H. Rony, and M. Begum.  
    **"Develop a Dynamic DBSCAN Algorithm for Solving Initial Parameter Selection Problem of the DBSCAN Algorithm."**  
    *Indonesian Journal of Electrical Engineering and Computer Science*, 2021.
 
-5. T. R. Shaha, M. N. Akhtar, F. T. Johora, **Md. Zakir Hossain**, M. Rahman, and R. B. Ahmad.  
+5. T. R. Shaha, M. N. Akhtar, F. T. Johora, **Md Zakir Hossain**, M. Rahman, and R. B. Ahmad.  
    **"A Noble Approach to Develop Dynamically Scalable NameNode in Hadoop Distributed File System Using Secondary Storage."**  
    *Indonesian Journal of Electrical Engineering and Computer Science*, 2019.
 
-6. **Md. Zakir Hossain**, M. N. Akhtar, R. B. Ahmad, and M. Rahman.  
+6. **Md Zakir Hossain**, M. N. Akhtar, R. B. Ahmad, and M. Rahman.  
    **"A Dynamic K-Means Clustering for Data Mining."**  
    *Indonesian Journal of Electrical Engineering and Computer Science*, 2019.
