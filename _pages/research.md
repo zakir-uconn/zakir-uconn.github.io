@@ -4,9 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-# Research
-
 My research focuses on designing computational algorithms that solve challenging problems in healthcare and communication networks. My work currently spans two research areas: **Machine Learning for Healthcare** and **Satellite-Based Quantum Key Distribution (QKD)**. Although these areas address different scientific problems, both involve developing intelligent algorithms that analyze complex data, optimize system performance, and support reliable decision making.
 
 ---
