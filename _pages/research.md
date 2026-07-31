@@ -70,7 +70,7 @@ Please see the **Publications** page for papers related to this research area.
 <p align="center">
   <img src="/images/Single_Sat_Model.png"
        alt="Satellite-based Quantum Key Distribution network"
-       width="450">
+       width="350">
 </p>
 
 <p align="center">
