@@ -92,7 +92,7 @@ publication_category:
   #   title: 'Journal Articles'    
   # conferences:
   #   title: 'Conference Papers'
-   healthcare:
+  healthcare:
     title: "Machine Learning for Healthcare"
   qkd:
     title: "Satellite-Based Quantum Key Distribution"
