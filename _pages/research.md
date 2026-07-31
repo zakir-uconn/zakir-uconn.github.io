@@ -92,7 +92,7 @@ I develop algorithms that determine efficient communication paths while consider
 
 ---
 
-## Current Research Topics
+## Research Topics
 
 - Satellite-Based Quantum Key Distribution (QKD)
 - Quantum Communication Networks
