@@ -19,7 +19,7 @@ My research focuses on designing computational algorithms that solve challenging
 </p>
 
 <p align="center">
-  <em>Machine learning framework for predicting depression treatment outcomes from longitudinal behavioral and clinical data.</em>
+  <em>Machine learning framework for predicting depression treatment outcomes from behavioral and clinical data.</em>
 </p>
 
 ## Motivation
@@ -30,28 +30,23 @@ Machine learning provides an opportunity to continuously analyze these behaviora
 
 ---
 
-## My Research
+## Research Overview
 
-My research develops machine learning methods for predicting depression treatment outcomes using **longitudinal behavioral data** collected throughout treatment. Instead of relying on a single clinical assessment, my models learn from sequential information collected over time.
+My research develops machine learning methods for predicting depression treatment outcomes using behavioral data. Instead of relying on a single clinical assessment, my models learn from sequential information collected over time.
 
-The behavioral data include
+The behavioral data include daily mood ratings, daily anxiety ratings, physical activity (step counts), smartphone-derived behavioral features, location and mobility patterns, and clinical questionnaire scores.
 
-- Daily mood ratings
-- Daily anxiety ratings
-- Physical activity (step counts)
-- Smartphone-derived behavioral features
-- Location and mobility patterns
-- Clinical questionnaire scores
+My current research investigates how different observation windows, including 7-day, 14-day, and 21-day behavioral sequences, influence depression treatment outcome prediction. By comparing these temporal windows, I study the trade-off between making earlier predictions and improving predictive performance with additional behavioral information.
 
-A major focus of my research is understanding how different observation windows (such as 7-day, 14-day, and 21-day behavioral sequences) influence prediction performance. I also investigate **Explainable Artificial Intelligence (XAI)** methods, including SHAP, to identify which behavioral patterns contribute most to model predictions and improve the interpretability of machine learning models for clinical decision support.
+To improve model transparency, I employ Explainable Artificial Intelligence techniques, particularly SHAP, to identify which behavioral features and temporal patterns contribute most to model predictions. These analyses provide interpretable insights that can support clinicians in understanding the factors influencing treatment outcomes.
 
 ---
 
-## Current Research Topics
+## Research Topics
 
 - Depression Treatment Outcome Prediction
 - Longitudinal Time-Series Machine Learning
-- Explainable Artificial Intelligence (SHAP)
+- Explainable Artificial Intelligence
 - Behavioral Health Analytics
 - Clinical Decision Support
 
