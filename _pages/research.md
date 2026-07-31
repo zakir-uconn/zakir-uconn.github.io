@@ -67,7 +67,17 @@ Please see the **Publications** page for papers related to this research area.
 
 # Satellite-Based Quantum Key Distribution Networks
 
-*(Insert your satellite constellation figure here.)*
+<p align="center">
+  <img src="/images/Single_Sat_Model.png"
+       alt="Satellite-based Quantum Key Distribution network"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Satellite-based Quantum Key Distribution network connecting geographically separated ground stations.</em>
+</p>
+
+## Motivation
 
 ## Motivation
 
