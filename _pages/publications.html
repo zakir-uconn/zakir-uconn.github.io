@@ -5,46 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p>
-My recent research spans two primary areas:
-<strong>Machine Learning for Healthcare</strong> and
-<strong>Satellite-Based Quantum Key Distribution (QKD)</strong>.
-Earlier in my academic career, I also worked on data mining,
-distributed computing, clustering, and optimization.
-</p>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-<hr>
+{% include base_path %}
 
-<h2>Machine Learning for Healthcare</h2>
-
-<h3>2025</h3>
-
-<p>
-<strong>Predicting Depression Treatment Outcome Using Daily Step Count Sensory Data</strong><br>
-<strong>Md. Zakir Hossain</strong>, Chinmaey Shende, Soumyashree Sahoo,
-Parit Patel, Reynaldo Morillo, Xinyu Wang, Jinbo Bi, Jayesh Kamath,
-Alexander Russell, Dongjin Song, and Bing Wang<br>
-<em>ACM HEALTH, 2025.</em>
-</p>
-
-<p>
-<strong>Cross-Platform Prediction of Depression Treatment Outcome Using Location Sensory Data on Smartphones</strong><br>
-Soumyashree Sahoo, <strong>Md. Zakir Hossain</strong>, Chinmaey Shende,
-Parit Patel, Yushuo Niu, Xinyu Wang, Shweta Ware, Jinbo Bi, Jayesh Kamath,
-Alexander Russell, Dongjin Song, Qian Yang, and Bing Wang<br>
-<em>ACM Transactions on Intelligent Systems and Technology, 2025.</em>
-</p>
-
-<hr>
-
-<h2>Satellite-Based Quantum Key Distribution</h2>
-
-<h3>2026</h3>
-
-<p>
-<strong>Opportunistic Scheduling for Single-Downlink Satellite-Based Quantum Key Distribution</strong><br>
-<strong>Md. Zakir Hossain</strong>, Nitish K. Panigrahy, Walter O. Krawec,
-Don Towsley, and Bing Wang<br>
-<em>IEEE Journal on Selected Areas in Communications (JSAC)</em><br>
-<strong>Under Review</strong>
-</p>
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
