@@ -54,7 +54,7 @@ To improve model transparency, I employ Explainable Artificial Intelligence tech
 
 ## Selected Publications
 
-Please see the **Publications** (/publications/) page for papers related to this research area.
+Please see the [**Publications**](/publications/) page for papers related to this research area.
 
 ---
 
@@ -99,11 +99,12 @@ I develop algorithms that determine efficient communication paths while consider
 - Routing Algorithms
 - Scheduling Algorithms
 - Resource Allocation
+  
 ---
 
 ## Selected Publications
 
-Please see the **Publications** (/publications/) page for papers related to this research area.
+Please see the [**Publications**](/publications/) page for papers related to this research area.
 
 ---
 
@@ -117,4 +118,4 @@ As healthcare increasingly depends on AI-driven decision support, protecting sen
 
 # Research Collaboration
 
-I welcome collaborations with researchers, students, and industry partners interested in Machine Learning, Artificial Intelligence for Healthcare, Quantum Communication, Network Optimization, and Satellite-Based Quantum Key Distribution.
+I welcome collaborations with researchers, students, and industry partners interested in Machine Learning, Artificial Intelligence for Healthcare, Quantum Communication, and Satellite-Based Quantum Key Distribution.
