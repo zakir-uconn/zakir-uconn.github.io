@@ -54,7 +54,7 @@ To improve model transparency, I employ Explainable Artificial Intelligence tech
 
 ## Selected Publications
 
-Please see the **Publications** page for papers related to this research area.
+Please see the **Publications** (/publications/) page for papers related to this research area.
 
 ---
 
@@ -74,43 +74,36 @@ Please see the **Publications** page for papers related to this research area.
 
 ## Motivation
 
-## Motivation
-
 As quantum computers continue to advance, many widely used cryptographic techniques may become vulnerable to future attacks. Quantum Key Distribution (QKD) provides a fundamentally secure method for distributing cryptographic keys based on the principles of quantum mechanics.
 
 Satellite-based QKD extends secure communication across global distances where fiber-based QKD becomes impractical. However, efficiently distributing quantum keys over large satellite constellations introduces many computational challenges, including routing, scheduling, and resource allocation.
 
 ---
 
-## My Research
+## Research Overview
 
-My research investigates algorithmic challenges in **Satellite-Based Quantum Key Distribution (QKD) networks**.
+My research develops routing, scheduling, and network optimization algorithms for satellite-based Quantum Key Distribution (QKD) networks. The goal is to efficiently distribute quantum keys among geographically separated ground stations while addressing the challenges of limited satellite resources, dynamic network topology, and time-varying satellite visibility.
 
-My earlier work focused on **single-satellite QKD systems**, where quantum keys are generated between ground stations through individual satellites. This research examined efficient key generation and resource utilization under realistic satellite communication constraints.
+My earlier research focused on single-satellite QKD systems, where quantum keys are generated between ground stations through individual satellites. This work investigated efficient resource allocation and scheduling strategies to maximize quantum key generation while ensuring fair resource utilization among multiple communication requests.
 
-Building on this foundation, my current research studies **large-scale satellite constellations** for global quantum communication. I develop routing, scheduling, and optimization algorithms that determine how quantum keys should be distributed efficiently across dynamic satellite networks.
+Building on this foundation, my current research investigates large-scale satellite constellations that incorporate Inter-Satellite Links (ISLs). Unlike single-satellite systems, quantum keys can be forwarded through multiple satellites before reaching their destination, introducing new challenges in routing, scheduling, and network optimization.
 
-More recently, my work has expanded to include **Inter-Satellite Links (ISLs)**, which allow quantum keys to be forwarded between satellites before reaching their destination ground stations. This significantly increases network flexibility and global coverage while introducing new optimization challenges in routing, scheduling, and resource allocation.
-
-Overall, my goal is to design scalable algorithms that improve the efficiency, fairness, and performance of future satellite-based quantum communication networks.
+I develop algorithms that determine efficient communication paths while considering satellite visibility, network connectivity, transmission loss, quantum key generation rates, and limited satellite resources. My research aims to improve the scalability, efficiency, and fairness of future global quantum communication networks.
 
 ---
 
 ## Current Research Topics
 
-- Satellite-Based Quantum Key Distribution
+- Satellite-Based Quantum Key Distribution (QKD)
 - Quantum Communication Networks
-- Satellite Constellation Optimization
 - Routing Algorithms
 - Scheduling Algorithms
 - Resource Allocation
-- Inter-Satellite Links (ISLs)
-
 ---
 
 ## Selected Publications
 
-Please see the **Publications** page for papers related to this research area.
+Please see the **Publications** (/publications/) page for papers related to this research area.
 
 ---
 
