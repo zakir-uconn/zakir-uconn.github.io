@@ -15,7 +15,7 @@ My publications span **Machine Learning for Healthcare**, **Satellite-Based QKD*
 ## Machine Learning for Healthcare
 
 1. **Md Zakir Hossain**, S. Sahoo, and B. Wang.  
-   **Sequential Mood and Anxiety Modeling with Contrastive Learning for Depression Treatment Outcome Prediction**  
+   **"Sequential Mood and Anxiety Modeling with Contrastive Learning for Depression Treatment Outcome Prediction"**  
    *Work in Progress.*
 
 2. **Md Zakir Hossain**, S. Sahoo, C. Shende, P. Patel, R. Morillo, Z. Pan, X. Wang, J. Bi, et al.  
@@ -39,7 +39,7 @@ My publications span **Machine Learning for Healthcare**, **Satellite-Based QKD*
 ## Satellite-Based QKD
 
 1. **Md Zakir Hossain**, N. K. Panigrahy, W. O. Krawec, D. Towsley, and B. Wang.  
-   **Resource-Aware Routing for Satellite-Based Quantum Key Distribution with Inter-Satellite Links**  
+   **"Resource-Aware Routing for Satellite-Based Quantum Key Distribution with Inter-Satellite Links"**  
    *Work in Progress.*
 
 2. **Md Zakir Hossain**, N. K. Panigrahy, W. O. Krawec, D. Towsley, and B. Wang.  
