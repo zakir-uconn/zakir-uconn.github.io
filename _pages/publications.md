@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publications span **Machine Learning for Healthcare**, **Quantum Communication and Satellite-Based Quantum Key Distribution**, and earlier research in machine learning, data mining, distributed systems, and optimization.
-
-For citation counts and the most up-to-date publication information, please visit my [**Google Scholar Profile**](YOUR_GOOGLE_SCHOLAR_LINK).
+You can also find my articles on [**my Google Scholar profile**](https://scholar.google.com/citations?user=-amIff0AAAAJ&hl=en).
 
 ---
 
