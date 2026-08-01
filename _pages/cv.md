@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-# Curriculum Vitae
-
 My curriculum vitae summarizes my education, research, teaching, publications, honors, and professional experience. A complete and up-to-date version of my CV can be downloaded below.
 
 📄 **[Download Full Curriculum Vitae (PDF)](/files/Md_Zakir_Hossain_CV.pdf)**
