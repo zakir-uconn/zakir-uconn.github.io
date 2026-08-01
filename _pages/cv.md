@@ -58,7 +58,7 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 
 ### University of Connecticut
 
-**Graduate Teaching Assistant** *(Approximately 2 Years)*
+**Graduate Teaching Assistant**
 
 - Supported undergraduate computer science and mathematics courses.
 - Conducted laboratory and discussion sessions.
