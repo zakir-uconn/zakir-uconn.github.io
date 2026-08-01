@@ -55,8 +55,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "News"
-    url: /news/
+  # - title: "News"
+  #   url: /news/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
