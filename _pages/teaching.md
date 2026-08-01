@@ -7,11 +7,11 @@ author_profile: true
 
 ## Teaching Overview
 
-Teaching has been a central part of my academic career. I have more than 7 years of university-level teaching experience, beginning as a Lecturer and later serving as an Assistant Professor in the Department of Computer Science and Engineering at Dhaka University of Engineering and Technology (DUET), Gazipur, Bangladesh, along with more than 2 years of Graduate Teaching Assistant experience at the University of Connecticut.
+Teaching has been a central part of my academic career. I have more than 7 years of university level teaching experience, beginning as a Lecturer and later serving as an Assistant Professor in the Department of Computer Science and Engineering at Dhaka University of Engineering and Technology (DUET), Gazipur, Bangladesh, along with more than 2 years of Graduate Teaching Assistant experience at the University of Connecticut.
 
 My teaching experience spans a broad range of undergraduate computer science courses, including programming, data structures, artificial intelligence, machine learning, databases, computer networks, theory of computation, big data analytics, and quantum computing.
 
-I believe students learn best when theoretical concepts are reinforced through practical problem solving and active engagement. My teaching philosophy emphasizes creating an interactive learning environment where students are encouraged to ask questions, think critically, collaborate with their peers, and develop confidence in solving real-world computing problems. Whether teaching introductory programming or advanced computer science topics, I strive to make complex concepts accessible through clear explanations, practical examples, and hands-on learning activities.
+I believe students learn best by actively participating in class and applying what they learn to practical problems. I encourage students to ask questions, think independently, and work together to solve challenges. My goal is to create a supportive learning environment where students feel comfortable learning and growing. I strive to explain complex computer science concepts in a clear and simple way by using practical examples and hands-on programming activities.
 
 ---
 
@@ -94,7 +94,6 @@ I enjoy teaching courses in the following areas:
 - Data Science and Big Data Analytics
 - Database Systems
 - Computer Networks
-- Theory of Computation
 - Quantum Computing
 
 ---
