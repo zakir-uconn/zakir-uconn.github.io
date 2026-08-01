@@ -7,18 +7,24 @@ author_profile: true
 
 ## Teaching Overview
 
-I have more than seven years of university-level teaching experience in Computer Science and Engineering, along with approximately two years of teaching assistant experience at the University of Connecticut. My teaching experience spans a broad range of areas, including programming, data structures, artificial intelligence, machine learning, databases, computer networks, theory of computation, big data analytics, and quantum computing.
+Teaching has been a central part of my academic career. I have more than seven years of university-level teaching experience, beginning as a Lecturer and later serving as an Assistant Professor in the Department of Computer Science and Engineering at Dhaka University of Engineering and Technology (DUET), Gazipur, Bangladesh, along with more than two years of Graduate Teaching Assistant experience at the University of Connecticut.
 
-Throughout my teaching career, I have worked with students with different levels of programming and mathematical backgrounds. My teaching approach emphasizes clear explanations, hands-on problem solving, and connecting fundamental concepts with practical applications. I aim to help students not only understand computational concepts but also develop the confidence and problem-solving skills needed to apply them independently.
+My teaching experience spans a broad range of undergraduate computer science courses, including programming, data structures, artificial intelligence, machine learning, databases, computer networks, theory of computation, big data analytics, and quantum computing.
+
+I believe students learn best when theoretical concepts are reinforced through practical problem solving and active engagement. My teaching philosophy emphasizes creating an interactive learning environment where students are encouraged to ask questions, think critically, collaborate with their peers, and develop confidence in solving real-world computing problems. Whether teaching introductory programming or advanced computer science topics, I strive to make complex concepts accessible through clear explanations, practical examples, and hands-on learning activities.
 
 ---
 
-## Teaching Experience
+# Teaching Experience
 
-### Dhaka University of Engineering and Technology (DUET), Bangladesh
-**Assistant Professor, Department of Computer Science and Engineering**
+## Dhaka University of Engineering and Technology (DUET), Gazipur, Bangladesh
 
-Courses taught:
+**Lecturer (July 2017 – August 2019)**  
+**Assistant Professor (August 2019 – December 2022)**
+
+I joined the Department of Computer Science and Engineering at DUET as a Lecturer and was subsequently promoted to Assistant Professor. During my time at DUET, I taught undergraduate computer science courses, developed lectures, programming laboratories, assignments, quizzes, examinations, and course materials, supervised undergraduate theses and capstone projects, and mentored students in programming, software development, machine learning, and research.
+
+### Courses Taught
 
 - Mobile Application Development
 - Web Programming
@@ -27,13 +33,15 @@ Courses taught:
 - Machine Learning
 - Pattern Recognition
 
-In addition to classroom teaching, I supervised undergraduate theses and projects and mentored students in programming, software development, and research.
-
 ---
 
-### University of Barishal (BU), Bangladesh
+## Bangladesh University (BU), Dhaka, Bangladesh
 
-Courses taught:
+**Lecturer, Department of Computer Science and Engineering**
+
+At the Bangladesh University, I taught undergraduate computer science courses that helped students build strong foundations in programming and core computer science concepts. My teaching emphasized conceptual understanding, algorithmic thinking, practical programming skills, and collaborative problem solving through lectures, classroom discussions, assignments, and programming exercises.
+
+### Courses Taught
 
 - Computer Networks
 - Database Systems
@@ -42,10 +50,13 @@ Courses taught:
 
 ---
 
-### University of Connecticut (UConn), USA
-**Graduate Teaching Assistant | Approximately 2 Years**
+## University of Connecticut, Storrs, USA
 
-Courses supported:
+**Graduate Teaching Assistant**
+
+As a Graduate Teaching Assistant at the University of Connecticut, I supported undergraduate instruction across several computer science and mathematics courses. This experience strengthened my ability to work with students from diverse academic backgrounds while gaining valuable teaching experience in a U.S. university environment.
+
+### Courses Supported
 
 - Big Data Analysis
 - Data Structures and Object-Oriented Design
@@ -53,25 +64,41 @@ Courses supported:
 - Theory of Computation
 - Introduction to Quantum Computing
 
-As a Graduate Teaching Assistant, I have supported student learning through laboratory and discussion sessions, office hours, programming exercises, problem-solving activities, and individual student assistance.
+### Teaching Responsibilities
+
+- Conducted laboratory and discussion sessions.
+- Assisted students during office hours and individual help sessions.
+- Guided students with programming assignments and problem-solving exercises.
+- Graded programming assignments, quizzes, and examinations.
+- Evaluated answer scripts and maintained student grade records.
+- Assisted instructors with course administration and assessment activities.
 
 ---
 
-## Student Mentoring & Supervision
+# Student Mentoring
 
-During my university teaching career, I supervised undergraduate theses and academic projects and mentored students in programming, software development, and research. I enjoy helping students progress from understanding fundamental concepts to independently analyzing problems, designing solutions, and implementing their ideas.
+Throughout my teaching career, I have supervised undergraduate theses and academic projects and mentored numerous students in programming, software development, machine learning, and research. I enjoy working closely with students as they develop analytical thinking, independent learning skills, and confidence in solving challenging computing problems.
 
 ---
 
-## Teaching Interests
+# Teaching Interests
 
-My teaching interests include:
+I enjoy teaching courses in the following areas:
 
-- Programming and Object-Oriented Programming
+- Programming Fundamentals
+- Object-Oriented Programming
 - Data Structures and Algorithms
+- Machine Learning
+- Artificial Intelligence
+- Pattern Recognition
 - Data Science and Big Data Analytics
-- Machine Learning and Artificial Intelligence
 - Database Systems
 - Computer Networks
 - Theory of Computation
 - Quantum Computing
+
+---
+
+# Teaching Philosophy
+
+I believe that effective teaching extends beyond delivering course content. My goal is to help students become independent learners who can analyze problems, think critically, and apply computational techniques to solve real-world challenges. I encourage active participation, collaborative learning, and hands-on programming experiences that connect theory with practice. By creating an inclusive and supportive classroom environment, I strive to inspire curiosity, build students' confidence, and prepare them for successful careers in computing and lifelong learning.
