@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
-
 This page highlights selected software systems and academic projects that I have developed during my research and graduate studies. These projects demonstrate my interests in artificial intelligence, machine learning, software development, graph learning, and quantum communication.
 
 ---
@@ -24,7 +22,7 @@ I contributed to the development and maintenance of an Android application used 
 - Added new features to the Android application.
 - Improved the user interface and application performance.
 - Fixed bugs and maintained the application.
-- Supported the collection of longitudinal behavioral data for research.
+- Supported the collection of behavioral data for research.
 
 **Technologies**
 
@@ -66,7 +64,7 @@ I designed, developed, and currently maintain my research advisor's academic web
 
 **Technologies**
 
-GitHub Pages • HTML • CSS • Jekyll
+HTML • CSS • JavaScript
 
 ---
 
@@ -74,7 +72,7 @@ GitHub Pages • HTML • CSS • Jekyll
 
 ## Dynamic Mobility Network Learning
 
-**Course:** Advanced Machine Learning
+**Course:** Advanced Computer Networks
 
 This project investigated how Graph Neural Networks and Reinforcement Learning can improve decision making in dynamic mobility networks. The goal was to help communication networks adapt to changing environments by learning mobility patterns over time.
 
@@ -90,27 +88,9 @@ PyTorch • TensorFlow • Graph Neural Networks (GCN) • Reinforcement Learnin
 
 ---
 
-## Traffic Flow Prediction
-
-**Course:** Big Data Analysis
-
-This project focused on predicting traffic flow using graph-based deep learning models. I combined Graph Convolutional Networks with spatial-temporal learning methods to improve traffic prediction accuracy.
-
-**Highlights**
-
-- Built graph-based traffic prediction models.
-- Integrated spatial and temporal information.
-- Improved prediction performance using deep learning.
-
-**Technologies**
-
-Python • PyTorch • Graph Convolutional Networks • Spatial-Temporal Modeling
-
----
-
 ## Reinforcement Learning for Autonomous Racing (AWS DeepRacer)
 
-**Course:** Introduction to Machine Learning
+**Course:** Advanced Machine Learning
 
 In this project, I developed reinforcement learning agents using the AWS DeepRacer simulator. The objective was to train an autonomous racing car by designing reward functions and optimizing reinforcement learning algorithms.
 
@@ -126,9 +106,27 @@ Python • TensorFlow • AWS DeepRacer • PPO • DQN • SAC
 
 ---
 
+## Traffic Flow Prediction
+
+**Course:** Introduction to Machine Learning
+
+This project focused on predicting traffic flow using graph-based deep learning models. I combined Graph Convolutional Networks with spatial-temporal learning methods to improve traffic prediction accuracy.
+
+**Highlights**
+
+- Built graph-based traffic prediction models.
+- Integrated spatial and temporal information.
+- Improved prediction performance using deep learning.
+
+**Technologies**
+
+Python • PyTorch • Graph Convolutional Networks • Spatial-Temporal Modeling
+
+---
+
 ## Online Sexual Harassment Detection
 
-**Course:** Advanced Computer Networks
+**Course:** Big Data Analysis
 
 This project developed machine learning models to detect online sexual harassment from text data. Transformer-based language models and natural language processing techniques were used to classify harmful online content.
 
