@@ -20,6 +20,7 @@ My curriculum vitae summarizes my education, research, teaching, publications, h
 **Research Areas**
 
 - Artificial Intelligence for Healthcare
+- Explainable Artificial Intelligence
 - Satellite-Based Quantum Key Distribution
 
 **Advisor**
