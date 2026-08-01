@@ -7,6 +7,14 @@ author_profile: true
 
 ## Honors & Awards
 
+### Professor Reda Ammar Fellowship
+**University of Connecticut**  
+**2026**
+
+Recognized for outstanding research accomplishments.
+
+---
+
 ### Research Excellence Award
 **University of Connecticut**  
 **2025**
