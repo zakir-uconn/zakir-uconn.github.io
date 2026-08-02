@@ -12,7 +12,7 @@ In healthcare, I develop machine learning models to predict depression treatment
 
 In quantum communication, I develop routing, scheduling, and network optimization algorithms for Satellite-Based Quantum Key Distribution (QKD) networks. My research focuses on improving the scalability, efficiency, and secure distribution of quantum keys to support future large-scale quantum communication systems.
 
-Looking ahead, I am interested in exploring how artificial intelligence and quantum-secure communication can be combined to develop trustworthy healthcare technologies. As AI increasingly relies on privacy-sensitive data, I believe secure communication will become an important component of future AI-driven healthcare systems. I hope to investigate how quantum-secure communication can help protect sensitive medical data while supporting reliable and trustworthy AI applications.
+In my long-term research vision, I am interested in exploring how artificial intelligence and quantum-secure communication can be combined to develop trustworthy healthcare technologies. As AI increasingly relies on privacy-sensitive data, I believe secure communication will become an important component of future AI-driven healthcare systems. I hope to investigate how quantum-secure communication can help protect sensitive medical data while supporting reliable and trustworthy AI applications.
 
 ---
 
