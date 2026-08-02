@@ -8,7 +8,9 @@ My research focuses on designing computational algorithms that solve challenging
 
 ---
 
-# Research Area I
+# Current Research
+
+---
 
 # Machine Learning for Depression Treatment Outcome Prediction
 
@@ -57,8 +59,6 @@ To improve model transparency, I employ Explainable Artificial Intelligence tech
 Please see the [**Publications**](/publications/) page for papers related to this research area.
 
 ---
-
-# Research Area II
 
 # Satellite-Based Quantum Key Distribution Networks
 
