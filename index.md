@@ -18,6 +18,6 @@ In my long-term research vision, I am interested in exploring how artificial int
 
 ### 🛠️ Research Interests
 
-`Artificial Intelligence for Healthcare`, `Trustworthy and Explainable AI`, `Quantum Key Distribution`, `Secure Intelligent Systems`
+`Artificial Intelligence for Healthcare`, `Trustworthy and Explainable AI`, `Quantum Key Distribution`
 
 ---
