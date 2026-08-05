@@ -56,6 +56,13 @@ Selected participant in the InnovateHealth PitchFest.
 
 ---
 
+### UConn School of Computing PhD Fellowship
+**University of Connecticut** | **2023**
+
+Awarded for excellence in academics and research.
+
+---
+
 ### University Gold Medal
 **Dhaka University of Engineering and Technology (DUET)**
 
