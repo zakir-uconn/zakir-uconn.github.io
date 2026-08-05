@@ -5,12 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-My curriculum vitae summarizes my education, research, teaching, publications, honors, and professional experience. A complete and up-to-date version of my CV can be downloaded below.
-
-📄 **[Download Full Curriculum Vitae (PDF)](/files/Md_Zakir_Hossain_CV.pdf)**
-
----
-
 ## Education
 
 ### University of Connecticut
@@ -129,6 +123,3 @@ Git, GitHub, Docker, AWS, Microsoft Azure
 
 ---
 
-For a complete record of my education, research, teaching experience, publications, honors, professional service, and technical skills, please download my full Curriculum Vitae.
-
-📄 **[Download Full Curriculum Vitae (PDF)](/files/Md_Zakir_Hossain_CV.pdf)**
