@@ -80,7 +80,7 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 **Lecturer** *(February 2016 – July 2017)*
 
 - Taught undergraduate computer science courses.
-- Delivered courses in artificial intelligence, databases, Operating System, computer networks, and object-oriented programming.
+- Delivered courses in artificial intelligence, databases, operating systems, computer networks, and object-oriented programming.
 - Guided students through programming assignments and practical laboratory activities.
 
 ---
