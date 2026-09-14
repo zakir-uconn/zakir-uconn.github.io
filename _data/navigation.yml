@@ -45,6 +45,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Industry Experience"
+    url: /industry/
 
   - title: "Projects"
     url: /projects/
