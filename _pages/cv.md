@@ -85,7 +85,7 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 
 ---
 
-### IECL, Dhaka, Bangladesh
+### Information Entertainment & Communication Ltd (IECL), Dhaka, Bangladesh
 
 **Software Engineer** *(Full-time: May 2015 – January 2016, Part-time: February 2016 - January 2017)*
 
