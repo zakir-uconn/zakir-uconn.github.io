@@ -87,7 +87,7 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 
 ### IECL, Dhaka, Bangladesh
 
-**Software Engineer** *(Full-time: May 2015 – January 2016, Part-time: January 2016 - January 2017)*
+**Software Engineer** *(Full-time: May 2015 – January 2016, Part-time: February 2016 - January 2017)*
 
 - Developed Android applications using **Java** and **Android Studio**, including application logic and user-interface components.
 - Applied object-oriented programming principles in Java for mobile application development.
