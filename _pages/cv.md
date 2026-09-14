@@ -71,28 +71,29 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 - Taught undergraduate computer science courses.
 - Developed lectures, laboratory exercises, assignments, and examinations.
 - Supervised undergraduate theses and capstone projects.
-- Mentored students in programming, software development, and machine learning.
+- Mentored students in programming, Computer Algorithm, software development, and machine learning.
 
 ---
 
 ### Bangladesh University
 
-**Lecturer** *(January 2016 – July 2017)*
+**Lecturer** *(February 2016 – July 2017)*
 
 - Taught undergraduate computer science courses.
-- Delivered courses in artificial intelligence, databases, computer networks, and object-oriented programming.
+- Delivered courses in artificial intelligence, databases, Operating System, computer networks, and object-oriented programming.
 - Guided students through programming assignments and practical laboratory activities.
 
 ---
 
 ### IECL, Dhaka, Bangladesh
 
-**Software Engineer** *(June 2015 – December 2015)*
+**Software Engineer** *(Full-time: May 2015 – January 2016, Part-time: January 2016 - January 2017)*
 
-- Developed Android application features using Android Studio.
-- Built back-end components using PHP and CakePHP.
-- Contributed to a government project management system using HTML, CSS, JavaScript, and MySQL.
-- Collaborated with software developers to design, implement, and maintain web-based applications.
+- Developed Android applications using **Java** and **Android Studio**, including application logic and user-interface components.
+- Applied object-oriented programming principles in Java for mobile application development.
+- Built back-end components using **PHP** and **CakePHP**.
+- Contributed to a government project management system using **HTML, CSS, JavaScript, and MySQL**.
+- Collaborated with a software development team on the design, implementation, testing, and maintenance of mobile and web-based applications.
 
 ---
 
