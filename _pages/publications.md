@@ -44,7 +44,7 @@ My publications span **Machine Learning for Healthcare**, **Satellite-Based QKD*
 
 2. **Md Zakir Hossain**, N. K. Panigrahy, W. O. Krawec, D. Towsley, and B. Wang.  
    **"Opportunistic Scheduling for Single-downlink Satellite-based Quantum Key Distribution."**  
-   *Under Review.*
+   *major revision at IEEE Journal on Selected Areas in Communications (JSAC).*
 
 3. M. J. Bae, N. K. Panigrahy, P. Dhara, **Md Zakir Hossain**, W. O. Krawec, A. Russell, D. Towsley, and B. Wang.  
    **"Blockwise Post-processing in Satellite-based Quantum Key Distribution."**  
