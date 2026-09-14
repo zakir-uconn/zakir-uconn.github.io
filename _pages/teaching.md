@@ -29,6 +29,7 @@ I joined the Department of Computer Science and Engineering at DUET as a Lecture
 - Mobile Application Development
 - Web Programming
 - Data Structures
+- Computer Algorithm
 - C Programming
 - Machine Learning
 - Pattern Recognition
@@ -45,6 +46,7 @@ At the Bangladesh University, I taught undergraduate computer science courses th
 
 - Computer Networks
 - Database Systems
+- Operating System
 - Object-Oriented Programming
 - Artificial Intelligence
 
@@ -86,7 +88,7 @@ Throughout my teaching career, I have supervised undergraduate theses and academ
 I enjoy teaching courses in the following areas:
 
 - Programming Fundamentals
-- Object-Oriented Programming
+- Object-Oriented Programming (Java, Python)
 - Data Structures and Algorithms
 - Machine Learning
 - Artificial Intelligence
