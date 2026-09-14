@@ -71,13 +71,13 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 - Taught undergraduate computer science courses.
 - Developed lectures, laboratory exercises, assignments, and examinations.
 - Supervised undergraduate theses and capstone projects.
-- Mentored students in programming, Computer Algorithm, software development, and machine learning.
+- Mentored students in programming, computer algorithms, software development, and machine learning.
 
 ---
 
 ### Bangladesh University
 
-**Lecturer** *(February 2016 – July 2017)*
+**Lecturer** *(Part-time: October 2015 - January 2016, Full-time: February 2016 – July 2017)*
 
 - Taught undergraduate computer science courses.
 - Delivered courses in artificial intelligence, databases, operating systems, computer networks, and object-oriented programming.
