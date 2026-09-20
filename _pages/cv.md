@@ -77,7 +77,7 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 
 ### Bangladesh University
 
-**Lecturer** *(Part-time: October 2015 - January 2016, Full-time: February 2016 – July 2017)*
+**Lecturer** *(October 2015 - July 2017)*
 
 - Taught undergraduate computer science courses.
 - Delivered courses in artificial intelligence, databases, operating systems, computer networks, and object-oriented programming.
@@ -87,7 +87,7 @@ Awarded the **University Gold Medal** and **Dean's Award** for outstanding acade
 
 ### Information Entertainment & Communication Ltd (IECL), Dhaka, Bangladesh
 
-**Software Engineer** *(Full-time: May 2015 – January 2016, Part-time: February 2016 - January 2017)*
+**Software Engineer** *(Full-time: June 2015 – September 2015, Part-time: October 2015 - January 2017)*
 
 - Developed Android applications using **Java** and **Android Studio**, including application logic and user-interface components.
 - Applied object-oriented programming principles in Java for mobile application development.
