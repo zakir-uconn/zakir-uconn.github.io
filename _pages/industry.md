@@ -5,6 +5,7 @@ permalink: /industry/
 author_profile: true
 ---
 
+## Information Entertainment & Communication Ltd (IECL), Dhaka, Bangladesh
 ## Software Engineer
 
 I worked as a **Software Engineer**, where I gained hands-on experience in **Java programming, Android application development, software engineering, Agile/Scrum development, and web technologies**. This industry experience allowed me to apply programming and software engineering concepts to real-world software projects.
