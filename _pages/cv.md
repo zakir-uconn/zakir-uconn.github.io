@@ -113,8 +113,14 @@ Transformer Encoder, PatchTST, Self-Supervised Learning, Positional Encoding, Se
 **Graph & Network Learning:**  
 Graph Neural Networks (GCN), Reinforcement Learning, Continual Learning, Satellite Network Optimization
 
-**Web & Software Development:**  
-HTML, CSS, JavaScript, Bootstrap, React.js, PHP, CakePHP, Android Development
+**Web Development:**  
+Flask, HTML, CSS, JavaScript, React.js, PHP, CakePHP
+
+**Mobile Development:**  
+Java, Android Studio, Android SDK
+
+**Software Engineering:**  
+Object-Oriented Programming, REST APIs, Scrum, SDLC
 
 **Databases:**  
 MySQL, PostgreSQL, SQL Server, Oracle, SQLite, NoSQL
